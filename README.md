@@ -5,5 +5,3 @@ This mini project is an integral part of my learning journey in HTML, CSS, and J
 ## Screenshot
 
 ![Login Form](img/login.png)
-
-[Live preview](https://milanilic-w28.github.io/expending-cards/)
