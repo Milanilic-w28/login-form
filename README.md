@@ -5,3 +5,4 @@ This mini project was developed as part of the "50 Projects in 50 Days - HTML, C
 ## Screenshot
 
 ![Login Form](img/login.png)
+[Live Preview](https://milanilic-w28.github.io/login-form/)
